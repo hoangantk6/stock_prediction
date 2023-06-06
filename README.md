@@ -7,10 +7,15 @@ This project aims at familiarizing you with time-series data analysis and its ap
 
 ## Project Structure {-}
 ├── data
+
 │   ├── data-nasdaq
+
 │   │   ├── csv
+
 │   └── data-vn-20230228
+
 |   |   ├── stock-historical-data
+
 |   |   ├── ticker-overview.csv
 
 ## Installation {-}
@@ -18,6 +23,8 @@ To run this project, you need to install the dependencies in 'requirements.txt'.
 ```bash
 pip install -r requirements.txt
 ```
+## Download Data {-}
+Download data folder [HERE](https://drive.google.com/drive/folders/13Ue1HVv3n8sNl8vurRR-BovUhbQV0ZkE?usp=sharing)
 
 ## Usage {-}
 To run the project, run the following files:
